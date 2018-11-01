@@ -1,5 +1,7 @@
-/*Write a program that prints the periemter of a rectangle given its height and width.
- *perimeter = 2 * (width + height) */
+/****************************************************************************************
+Write a program that prints the periemter of a rectangle given its height and width.
+perimeter = 2 * (width + height) 
+*****************************************************************************************/
 
 #include <stdio.h>
 #include <string.h>
