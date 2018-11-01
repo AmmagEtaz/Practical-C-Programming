@@ -1,5 +1,7 @@
-/* Write a program that, given the number of hours an employee worked dat the hourly wage, computes
- * the employee's weekly pay. Count any hours over 40 as overtime at time and a half */
+/****************************************************************************************************
+Write a program that, given the number of hours an employee worked dat the hourly wage, computes
+the employee's weekly pay. Count any hours over 40 as overtime at time and a half 
+****************************************************************************************************/
 
 #include <stdio.h>
 #include <string.h>
@@ -32,8 +34,6 @@ int main()
         weekly_pay = ((hourly_wage * hours_worked) / 7);
         printf("Weekly pay: %d\n", weekly_pay);
     }
-
-
 
     return 0;
 }
