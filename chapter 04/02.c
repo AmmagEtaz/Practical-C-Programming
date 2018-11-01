@@ -1,6 +1,8 @@
-/*Purpose: Write a program to compute the area and perimemter of a rectangle with a width of
+/*******************************************************************************************************
+Write a program to compute the area and perimemter of a rectangle with a width of
 three inches and a height of five inches. What changes must be made to the program so that it works
-for a rectangle with a width of 6.8 inches and a length of 2.3 inches? */
+for a rectangle with a width of 6.8 inches and a length of 2.3 inches? 
+********************************************************************************************************/
 
 
 #include <stdio.h>
@@ -24,12 +26,6 @@ int main()
     area2 = width2 * height2;
     printf("\nPerimeter 2 = %.2f", perimeter2);
     printf("\nArea 2 = %.2f\n\n", area2);
-
-   // printf("\n\n\nWelcome to our community! This is your data: \n");
-   // printf("\nName = %s", name);
-   //// printf("\nSocial Security Number = %i", socialsecurity);
-   //// printf("\nDate of birth = %s\n\n", dateofbirth);
-
 
     return(0);
 }
