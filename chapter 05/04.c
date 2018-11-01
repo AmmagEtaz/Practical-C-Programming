@@ -1,5 +1,7 @@
-/*Write a program that converts kilometers per hour to miles per hour.
- * miles = (kilometer * 0.6213712) */
+/************************************************************************
+Write a program that converts kilometers per hour to miles per hour.
+miles = (kilometer * 0.6213712) 
+*************************************************************************/
 
 #include <stdio.h>
 #include <string.h>
