@@ -1,4 +1,6 @@
-/*Write a program to calculate the volume of a sphere. 4/3*r^3  */
+/***************************************************************
+Write a program to calculate the volume of a sphere. 4/3*r^3  
+****************************************************************/
 
 #include <stdio.h>
 #include <string.h>
