@@ -1,4 +1,16 @@
-/* A professor generates letter grades using Table 6-3. Given a numberic grade, print the letter */
+/***********************************************************************
+Modify exercise 6-2 to print a + or - after the letter grade, based
+on the last digit of the score. Modifiers are:
+
+last digit  modifier
+----------  --------
+ 1-3         -
+ 4-7         <blank>
+ 8-0         +
+
+For example, 81=B-, 94=A, and 68=D+. An F is only an F. There is
+no F+ or F-.
+***********************************************************************/
 
 #include <stdio.h>
 #include <string.h>
