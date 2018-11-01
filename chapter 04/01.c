@@ -1,7 +1,6 @@
-/*Purpose: Write a program to print your name, *********
- *social security number, and date of birth            *
- *date: 08/08/2018                                     *
- *                                                     *
+/********************************************************
+Write a program to print your name,
+social security number, and date of birth
 ********************************************************/
 
 
