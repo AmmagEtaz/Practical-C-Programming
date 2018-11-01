@@ -1,4 +1,6 @@
-/* A professor generates letter grades using Table 6-3. Given a numberic grade, print the letter */
+/************************************************************************************************
+A professor generates letter grades using Table 6-3. Given a numberic grade, print the letter 
+*************************************************************************************************/
 
 #include <stdio.h>
 #include <string.h>
