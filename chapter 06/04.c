@@ -1,5 +1,7 @@
-/* Given an amount of money (less than $1.00), compute the number of quarters, dimes, nickels
- * and pennies needed */
+/********************************************************************************************
+Given an amount of money (less than $1.00), compute the number of quarters, dimes, nickels
+and pennies needed 
+*********************************************************************************************/
 
 #include <stdio.h>
 #include <string.h>
