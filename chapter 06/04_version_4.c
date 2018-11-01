@@ -1,4 +1,7 @@
-/* Write a program in C to make such a pattern like right angle triangle with number increased by 1 */
+/********************************************************************************************
+Given an amount of money (less than $1.00), compute the number of quarters, dimes, nickels
+and pennies needed 
+*********************************************************************************************/
 
 #include <stdio.h>
 #include <math.h>
@@ -30,11 +33,6 @@ int main()
         printf("Invalid number: please input a number between 0.00 and 1.00\n");
         return 0;
     }
-
-
-
-
-
 
     return 0;
 }
