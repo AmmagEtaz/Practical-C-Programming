@@ -1,5 +1,7 @@
-/*Write a program that takes an integer as the number of minutes, and outputs the total hours and minutes.
- * (90 minutes = 1 hour 30 minutes) */
+/*************************************************************************************************************
+Write a program that takes an integer as the number of minutes, and outputs the total hours and minutes.
+(90 minutes = 1 hour 30 minutes) 
+*************************************************************************************************************/
 
 #include <stdio.h>
 #include <string.h>
