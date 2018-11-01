@@ -18,7 +18,7 @@ int main()
     printf("Perimeter = %i", perimeter);
     printf("\nArea = %i", area);
     printf("\n\n\nWhat changes must be made to the program so that it works for a \nrectangle with a width of 6.8 inches and a length of 2.3 inches? ");
-    printf("\n\n\Answer: we define width and height as float numbers, so we have that: \n\n");
+    printf("\n\nAnswer: we define width and height as float numbers, so we have that: \n\n");
     float height2, width2, area2, perimeter2;
     width2 = 6.8;
     height2 = 2.3;
