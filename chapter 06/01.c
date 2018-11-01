@@ -1,6 +1,8 @@
-/* Write a program to find the square of the distance between two points. (For a more advanced problem,
- * find the actual distance. This problem involves using the standard function sqrt. Use your help system
- * to find out more about how to use this function.) */
+/*********************************************************************************************************
+Write a program to find the square of the distance between two points. (For a more advanced problem,
+find the actual distance. This problem involves using the standard function sqrt. Use your help system
+to find out more about how to use this function.) 
+*********************************************************************************************************/
 
 #include <stdio.h>
 #include <string.h>
