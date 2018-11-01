@@ -1,3 +1,8 @@
+/*********************************************************
+Write a program that converts Centigrade to Fahrenheit.
+F = (9/5)C + 32
+*********************************************************/
+
 #include <stdio.h>
 #include <string.h>
 
